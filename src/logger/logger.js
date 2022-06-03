@@ -11,3 +11,4 @@ module.exports.endpoint = endpoint
 module.exports.batch = batch
 module.exports.log = log
 module.exports.welcome = welcome
+//module.exports = {welcome}
